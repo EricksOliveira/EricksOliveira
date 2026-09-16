@@ -48,7 +48,7 @@ written in C++ and backed by MySQL.
 
 My path into programming started with World of Warcraft server development, writing C++ and Lua to modify
 game behavior. From there I moved to the web, building account registration portals with PHP and MySQL, and
-later picked up JavaScript, TypeScript, React, and Node.js.
+later picked up JavaScript, React, and Node.js.
 
 I'm persistent when a problem is hard: I research, test, and iterate until it's solved properly. I'm currently
 looking for opportunities as a developer where I can keep growing and contribute to a team.
