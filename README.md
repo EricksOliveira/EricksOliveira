@@ -16,7 +16,7 @@ troubleshooting, systems, and support.
 **[AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)**: an open-source MMORPG server emulator
 written in C++ and backed by MySQL.
 
-- 70+ merged pull requests covering C++ boss and encounter scripting, core gameplay systems, and database fixes
+- 80+ merged pull requests covering C++ boss and encounter scripting, core gameplay systems, and database fixes
 - Raid encounters in Icecrown Citadel and Ulduar, Wintergrasp battlefield logic, quest chains, and SmartAI
 - Work goes through code review by the project maintainers before merge
 
