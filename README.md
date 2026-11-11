@@ -16,11 +16,15 @@ troubleshooting, systems, and support.
 **[AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)**: an open-source MMORPG server emulator
 written in C++ and backed by MySQL.
 
-- 100+ merged pull requests covering C++ boss and encounter scripting, core gameplay systems, and database fixes
-- Raid encounters in Icecrown Citadel and Ulduar, Wintergrasp battlefield logic, quest chains, and SmartAI
-- Work goes through code review by the project maintainers before merge
+- **125+ merged pull requests** since December 2024, all reviewed by the project maintainers before merge
+- **Raid encounters**: Icecrown Citadel, Ulduar, and Trial of the Crusader boss scripts, from encounter
+  mechanics and timings to scripted outros
+- **Core systems**: spell and aura behavior, combat and threat, unit movement, vehicles, quests, loot, and
+  the Wintergrasp battlefield
+- **Database**: quest chains, creature data, and SmartAI scripts, validated against retail data
+- Added a new player hook to the scripting API for module authors
 
-[View my contributions →](https://github.com/azerothcore/azerothcore-wotlk/commits?author=EricksOliveira)
+[View my merged pull requests →](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3AEricksOliveira+is%3Amerged)
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +34,6 @@ written in C++ and backed by MySQL.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
 **Frontend & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,6 +45,7 @@ written in C++ and backed by MySQL.
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ## 👨‍💻 About Me
@@ -50,8 +54,11 @@ My path into programming started with World of Warcraft server development, writ
 game behavior. From there I moved to the web, building account registration portals with PHP and MySQL, and
 later picked up JavaScript, React, and Node.js.
 
-I'm persistent when a problem is hard: I research, test, and iterate until it's solved properly. I'm currently
-looking for opportunities as a developer where I can keep growing and contribute to a team.
+Working on a large C++ codebase taught me to read unfamiliar code, trace a bug to its root cause, and ship
+small, well-scoped changes that hold up in code review. I'm persistent when a problem is hard: I research,
+test, and iterate until it's solved properly.
+
+I'm currently looking for opportunities as a developer where I can keep growing and contribute to a team.
 
 ## 📫 Get in Touch
 
