@@ -2,29 +2,48 @@
 
 **Software Developer** · C++ · JavaScript · Web
 
-I build web applications and contribute to open-source game server emulation. Before moving into software
-development full time, I spent 8 years as an IT technician, which gave me a solid foundation in
-troubleshooting, systems, and support.
+I build web applications and contribute to [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk), a large open-source C++ codebase, where I've had **130+ pull requests merged** since December 2024. Before focusing on software development, I spent 8 years as an IT technician, which gave me a solid foundation in troubleshooting, systems, and support.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksoliveira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericksoliveira258@gmail.com)
+![Open to work](https://img.shields.io/badge/Open_to_work-2EA44F?style=for-the-badge)
 
 ---
 
 ## 🚀 Open Source
 
-**[AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)**: an open-source MMORPG server emulator
-written in C++ and backed by MySQL.
+### [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk)
 
-- **125+ merged pull requests** since December 2024, all reviewed by the project maintainers before merge
-- **Raid encounters**: Icecrown Citadel, Ulduar, and Trial of the Crusader boss scripts, from encounter
-  mechanics and timings to scripted outros
-- **Core systems**: spell and aura behavior, combat and threat, unit movement, vehicles, quests, loot, and
-  the Wintergrasp battlefield
-- **Database**: quest chains, creature data, and SmartAI scripts, validated against retail data
-- Added a new player hook to the scripting API for module authors
+An open-source MMORPG server emulator written in C++ and backed by MySQL. Every change is reviewed by the project maintainers before it is merged.
 
-[View my merged pull requests →](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3AEricksOliveira+is%3Amerged)
+[![Merged PRs](https://img.shields.io/github/issues-search?query=repo%3Aazerothcore%2Fazerothcore-wotlk%20is%3Apr%20is%3Amerged%20author%3AEricksOliveira&label=merged%20PRs&color=2EA44F&style=flat-square)](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3AEricksOliveira+is%3Amerged)
+
+- **Raid encounters:** boss scripts for Icecrown Citadel, Ulduar, and Trial of the Crusader, covering encounter mechanics, timings, and scripted outros
+- **Core systems:** spells and auras, combat and threat, unit movement, vehicles, quests, loot, and the Wintergrasp battlefield
+- **Database:** quest chains, creature data, and SmartAI scripts, validated against retail data
+- **Scripting API:** added a new player hook for module authors
+
+<!--
+Highlighted pull requests: pick 2–3 you're proudest of and uncomment this block.
+A recruiter is far more likely to open one specific PR than a long list.
+
+**Highlighted work**
+- [Short title of the PR](https://github.com/azerothcore/azerothcore-wotlk/pull/0000): one line on the problem and what you changed
+- [Short title of the PR](https://github.com/azerothcore/azerothcore-wotlk/pull/0000): one line on the problem and what you changed
+-->
+
+[View all my merged pull requests →](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3AEricksOliveira+is%3Amerged)
+
+<!--
+## 💼 Projects
+
+Uncomment and fill in with your web projects (pin the same repos on your profile).
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [project-name](https://github.com/EricksOliveira/project-name) | What it does, in one line | React · Node.js · MySQL |
+| [project-name](https://github.com/EricksOliveira/project-name) | What it does, in one line | PHP · MySQL |
+-->
 
 ## 🛠️ Tech Stack
 
@@ -51,17 +70,10 @@ written in C++ and backed by MySQL.
 
 ## 👨‍💻 About Me
 
-My path into programming started with World of Warcraft server development, writing C++ and Lua to modify
-game behavior. From there I moved to the web, building account registration portals with PHP and MySQL, and
-later picked up JavaScript, React, and Node.js.
+My path into programming started with World of Warcraft server development, writing C++ and Lua to change game behavior. From there I moved to the web, building account registration portals with PHP and MySQL, and later picked up JavaScript, React, and Node.js.
 
-Working on a large C++ codebase taught me to read unfamiliar code, trace a bug to its root cause, and ship
-small, well-scoped changes that hold up in code review. I'm persistent when a problem is hard: I research,
-test, and iterate until it's solved properly.
-
-I'm currently looking for opportunities as a developer where I can keep growing and contribute to a team.
+Working in a large C++ codebase taught me to read unfamiliar code, trace a bug to its root cause, and ship small, well-scoped changes that hold up in code review. When a problem is hard, I research, test, and iterate until it's solved properly.
 
 ## 📫 Get in Touch
 
-Open to job opportunities, freelance projects, and open-source collaboration. The best way to reach me is
-through [LinkedIn](https://www.linkedin.com/in/ericksoliveira/) or [email](mailto:ericksoliveira258@gmail.com).
+I'm looking for a developer role where I can keep growing and contribute to a team, and I'm also open to freelance projects and open-source collaboration. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/ericksoliveira/) or [email](mailto:ericksoliveira258@gmail.com).
