@@ -2,7 +2,7 @@
 
 **Software Developer** · C++ · JavaScript · Web
 
-I build web applications and contribute to [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk), a large open-source C++ codebase, where I've had **130+ pull requests merged** since December 2024. Before focusing on software development, I spent 8 years as an IT technician, which gave me a solid foundation in troubleshooting, systems, and support.
+I build web and desktop applications and contribute to [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk), a large open-source C++ codebase, where I've had **130+ pull requests merged** since December 2024. Before focusing on software development, I spent 8 years as an IT technician, which gave me a solid foundation in troubleshooting, systems, and support.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksoliveira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericksoliveira258@gmail.com)
@@ -34,16 +34,27 @@ A recruiter is far more likely to open one specific PR than a long list.
 
 [View all my merged pull requests →](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3AEricksOliveira+is%3Amerged)
 
-<!--
 ## 💼 Projects
 
-Uncomment and fill in with your web projects (pin the same repos on your profile).
+### [AzerothCore CPanel](https://github.com/EricksOliveira/AzerothCore-CPanel)
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [project-name](https://github.com/EricksOliveira/project-name) | What it does, in one line | React · Node.js · MySQL |
-| [project-name](https://github.com/EricksOliveira/project-name) | What it does, in one line | PHP · MySQL |
--->
+A Windows desktop control panel for AzerothCore servers. It starts, stops, and restarts authserver and worldserver with one click, so server owners don't have to manage the executables by hand.
+
+[![Release](https://img.shields.io/github/v/release/EricksOliveira/AzerothCore-CPanel?style=flat-square)](https://github.com/EricksOliveira/AzerothCore-CPanel/releases/latest)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+- **Safe server control:** clean shutdown through the worldserver console, so no character data is lost, plus automatic restart after a crash, with a limit so it never loops
+- **Live logs:** one tab per server, colored by level, with filters, search, and a box to send console commands
+- **Server management:** online players list, GM commands over SOAP, MySQL control, and scheduled database backups
+- **Config editor:** searchable `worldserver.conf` and `authserver.conf` options, each with its description and default value
+- **Desktop polish:** system tray with notifications, light and dark themes, and English, Portuguese, and Spanish
+
+<a href="https://github.com/EricksOliveira/AzerothCore-CPanel">
+  <img src="https://raw.githubusercontent.com/EricksOliveira/AzerothCore-CPanel/main/assets/screenshots/panel-dark.png" alt="AzerothCore CPanel main window, dark theme" width="640">
+</a>
 
 ## 🛠️ Tech Stack
 
