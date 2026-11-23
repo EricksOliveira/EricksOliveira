@@ -23,14 +23,11 @@ An open-source MMORPG server emulator written in C++ and backed by MySQL. Every 
 - **Database:** quest chains, creature data, and SmartAI scripts, validated against retail data
 - **Scripting API:** added a new player hook for module authors
 
-<!--
-Highlighted pull requests: pick 2–3 you're proudest of and uncomment this block.
-A recruiter is far more likely to open one specific PR than a long list.
-
 **Highlighted work**
-- [Short title of the PR](https://github.com/azerothcore/azerothcore-wotlk/pull/0000): one line on the problem and what you changed
-- [Short title of the PR](https://github.com/azerothcore/azerothcore-wotlk/pull/0000): one line on the problem and what you changed
--->
+
+- [**Deathbringer Saurfang outro and victory camp**](https://github.com/azerothcore/azerothcore-wotlk/pull/27112) (Icecrown Citadel, +1,000 lines): restored the Horde outro, which was fully commented out, and scripted the Alliance version from scratch in 24 timed beats, with the instance tracking the zeppelin and the portal NPCs
+- [**Make immune taunters pull aggro**](https://github.com/azerothcore/azerothcore-wotlk/pull/28374) (core combat): traced why a taunt from a player under Divine Shield or Hand of Protection only took effect a second later, fixed it in the threat manager, and added 300 lines of unit tests for the cases
+- [**Stop players from boarding each other during Northrend Beasts**](https://github.com/azerothcore/azerothcore-wotlk/pull/28293) (vehicle system): added a "boardable by players" switch to vehicles so raid members can no longer sit on each other, and fixed dead Snobolds staying seated on players
 
 [View all my merged pull requests →](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3AEricksOliveira+is%3Amerged)
 
