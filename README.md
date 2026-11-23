@@ -2,7 +2,7 @@
 
 **Software Developer** · C++ · JavaScript · Web
 
-I build web and desktop applications and contribute to [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk), a large open-source C++ codebase, where I've had **130+ pull requests merged** since December 2024. Before focusing on software development, I spent 8 years as an IT technician, which gave me a solid foundation in troubleshooting, systems, and support.
+I build web and desktop applications and contribute to [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk), a large open-source C++ codebase, where I've had **130+ pull requests merged** since December 2024, plus **30+ in its Playerbots module**. Before focusing on software development, I spent 8 years as an IT technician, which gave me a solid foundation in troubleshooting, systems, and support.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksoliveira/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericksoliveira258@gmail.com)
@@ -30,6 +30,17 @@ An open-source MMORPG server emulator written in C++ and backed by MySQL. Every 
 - [**Stop players from boarding each other during Northrend Beasts**](https://github.com/azerothcore/azerothcore-wotlk/pull/28293) (vehicle system): added a "boardable by players" switch to vehicles so raid members can no longer sit on each other, and fixed dead Snobolds staying seated on players
 
 [View all my merged pull requests →](https://github.com/azerothcore/azerothcore-wotlk/pulls?q=is%3Apr+author%3AEricksOliveira+is%3Amerged)
+
+### [mod-playerbots](https://github.com/mod-playerbots/mod-playerbots)
+
+The AzerothCore module that adds AI-controlled player bots to the server, written in C++.
+
+[![Merged PRs](https://img.shields.io/github/issues-search?query=repo%3Amod-playerbots%2Fmod-playerbots%20is%3Apr%20is%3Amerged%20author%3AEricksOliveira&label=merged%20PRs&color=2EA44F&style=flat-square)](https://github.com/mod-playerbots/mod-playerbots/pulls?q=is%3Apr+author%3AEricksOliveira+is%3Amerged)
+
+- **Crash fixes:** fixed 15+ server crashes in bot actions, chat, trading, travel, quests, and battlegrounds, mostly by adding missing null and bounds checks
+- **Bot behavior:** group invites and LFG, safe spell learning with a `SafeLearn` helper, blocking concurrent bot initialization, hunter pets, and arena bots handling targets behind obstacles
+
+[View my merged pull requests →](https://github.com/mod-playerbots/mod-playerbots/pulls?q=is%3Apr+author%3AEricksOliveira+is%3Amerged)
 
 ## 💼 Projects
 
